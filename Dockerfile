@@ -22,7 +22,7 @@ ENV URL="https://github.com/agordon/libgtextutils/releases/download/0.7/"
 ENV FOLDER=libgtextutils-0.7
 ENV DST=/home/
 ENV ZIP2=fastx_toolkit-0.0.14.tar.bz2
-ENV URL2=https://github.com/agordon/fastx_toolkit/releases/download/0.0.14/
+ENV URL2="https://github.com/agordon/fastx_toolkit/releases/download/0.0.14/"
 ENV FOLDER2=fastx_toolkit-0.0.14
 ENV DST2=/home/
 
